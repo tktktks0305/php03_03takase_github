@@ -1,0 +1,18 @@
+/* nav-bar上部固定用 */
+body { 
+    margin-top: 64px;
+}
+
+.container-m {
+    margin-top: 80px;
+}
+
+.footer.footer {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+}
+
+/* .navbar-img {
+    height: 100%;
+} */
